@@ -1,2 +1,2 @@
 # Yahoo SafeSearch
-safe.search.yahoo.com search.yahoo.com
+|search.yahoo.com^$dnsrewrite=safe.search.yahoo.com
