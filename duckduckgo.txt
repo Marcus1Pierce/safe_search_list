@@ -1,0 +1,3 @@
+# DuckDuckGo SafeSearch
+||duckduckgo.com^$dnsrewrite=safe.duckduckgo.com
+||www.duckduckgo.com^$dnsrewrite=safe.duckduckgo.com
