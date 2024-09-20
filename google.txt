@@ -1,3 +1,4 @@
+# Google SafeSearch
 ||google.mv^$dnsrewrite=forcesafesearch.google.com
 ||google.mw^$dnsrewrite=forcesafesearch.google.com
 ||google.com.mx^$dnsrewrite=forcesafesearch.google.com
