@@ -1,5 +1,5 @@
 # DuckDuckGo SafeSearch
-safe.duckduckgo.com duckduckgo.com
-safe.duckduckgo.com www.duckduckgo.com
-safe.duckduckgo.com duck.com
-safe.duckduckgo.com www.duck.com
+|duckduckgo.com^$dnsrewrite=safe.duckduckgo.com
+|www.duckduckgo.com^$dnsrewrite=safe.duckduckgo.com
+|duck.com^$dnsrewrite=safe.duckduckgo.com
+|www.duck.com^$dnsrewrite=safe.duckduckgo.com
