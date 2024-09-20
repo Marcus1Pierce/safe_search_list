@@ -1,4 +1,5 @@
 # Google SafeSearch
+forcesafesearch.google.com www.google.com
 forcesafesearch.google.com google.com
 forcesafesearch.google.com google.ad
 forcesafesearch.google.com google.ae
