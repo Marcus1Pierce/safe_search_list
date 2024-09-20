@@ -1,0 +1,3 @@
+# Bing SafeSearch
+||bing.com^$dnsrewrite=strict.bing.com
+||www.bing.com^$dnsrewrite=strict.bing.com
