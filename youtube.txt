@@ -1,4 +1,4 @@
 # YouTube Restricted Mode
-restrict.youtube.com youtube.com
-restrict.youtube.com www.youtube.com
-restrict.youtube.com m.youtube.com
+|youtube.com^$dnsrewrite=restrict.youtube.com
+|www.youtube.com^$dnsrewrite=restrict.youtube.com
+|m.youtube.com^$dnsrewrite=restrict.youtube.com
