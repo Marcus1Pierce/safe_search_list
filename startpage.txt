@@ -1,0 +1,2 @@
+# StartPage SafeSearch
+|startpage.com^$dnsrewrite=safe.startpage.com
